@@ -42,5 +42,10 @@ Además incluye medios de contacto directo como correo electrónico y número te
 - HTML5 → estructura del sitio  
 - CSS3 → estilos y diseño visual  
 
+---
+
+🚀 **Cómo Usar el Proyecto**
+-------------------------------------------------
+1. Clonar este repositorio:
    ```bash
-   git clone https://github.co-usuario/rumbo-landing-page
+   git clone https://github.com/tu-usuario/rumbo-landing-page.git
