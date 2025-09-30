@@ -42,7 +42,9 @@ Además incluye medios de contacto directo como correo electrónico y número te
 - HTML5 → estructura del sitio  
 - CSS3 → estilos y diseño visual  
 
----
+🔗 **Visita el sitio aquí:**  
+👉 [Rumbo - Landing Page](https://juan-mahecha1.github.io/Rumbo-practica-html-css/)  
+
 
 🚀 **Cómo Usar el Proyecto**
 -------------------------------------------------
